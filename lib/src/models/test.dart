@@ -1,0 +1,1 @@
+// copy from https://app.quicktype.io/
